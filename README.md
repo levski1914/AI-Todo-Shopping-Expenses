@@ -19,9 +19,10 @@
 
 ## 📱 Screenshots
 
-| Tasks                              | Shopping                              | Expenses                              |
+(./screenshots/image1.png)
+| Tasks | Shopping | Expenses |
 | ---------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Tasks](./screenshots/image2.png) | ![Shopping](./screenshots/image4.png) | ![Expenses](./screenshots/image5.png) |
+| ![Tasks](./screenshots/image2.png) | ![Shopping](./screenshots/Image4.png) | ![Expenses](./screenshots/Image5.png) |
 
 > _(Place these in `/screenshots` folder in the root of your project.)_
 
