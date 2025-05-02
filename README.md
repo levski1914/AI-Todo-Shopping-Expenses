@@ -19,7 +19,7 @@
 
 ## 📱 Screenshots
 
-(./screenshots/image1.png)
+![home](./screenshots/image1.png)
 | Tasks | Shopping | Expenses |
 | ---------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Tasks](./screenshots/image2.png) | ![Shopping](./screenshots/Image4.png) | ![Expenses](./screenshots/Image5.png) |
